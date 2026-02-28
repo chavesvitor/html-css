@@ -65,17 +65,19 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank"> Executar o exercício 021c </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank"> Executar o exercício 022a </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank"> Executar o exercício 022 Fundo001 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank"> Executar o exercício 022b </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank"> Executar o exercício 022 Fundo002 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank"> Executar o exercício 022c </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank"> Executar o exercício 022 Fundo003 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank"> Executar o exercício 022d </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank"> Executar o exercício 022 Fundo004 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank"> Executar o exercício 022e </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank"> Executar o exercício 022 Fundo005 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank"> Executar o exercício 022f </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank"> Executar o exercício 022 Fundo006 </a>
+<br>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank"> Executar o exercício 022 Fundo007 </a>
 <br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra01" target="_blank"> Executar o exercício Extra 01 </a>
 <br>
