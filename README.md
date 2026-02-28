@@ -95,5 +95,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href="https://chavesvitor.github.io/html-css/desafios/desafio009" target="_blank"> Executar o desafio 009 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/desafios/desafio010" target="_blank"> Executar o desafio 010 </a>
+<a href="https://chavesvitor.github.io/html-css/desafios/desafio010/android.html" target="_blank"> Executar o desafio 010a </a>
+<br>
+<a href="https://chavesvitor.github.io/html-css/desafios/desafio010/responsivo.html" target="_blank"> Executar o desafio 010b </a>
 <br>
