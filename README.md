@@ -75,15 +75,15 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank"> Executar o exercício 022e </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra01" target="_blank"> Executar o exercício Extra 01 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra01" target="_blank"> Executar o exercício Extra 01 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra02" target="_blank"> Executar o exercício Extra 02 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra02" target="_blank"> Executar o exercício Extra 02 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra03" target="_blank"> Executar o exercício Extra 03 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra03" target="_blank"> Executar o exercício Extra 03 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra04" target="_blank"> Executar o exercício Extra 04 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra04" target="_blank"> Executar o exercício Extra 04 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra05" target="_blank"> Executar o exercício Extra 05 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra05" target="_blank"> Executar o exercício Extra 05 </a>
 <br>
-<a href="https://chavesvitor.github.io/html-css/exercicios/extra06/android.html" target="_blank"> Executar o exercício Extra 06 </a>
+<a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra06/android.html" target="_blank"> Executar o exercício Extra 06 </a>
 <br>
