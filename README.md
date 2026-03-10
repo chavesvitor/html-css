@@ -79,6 +79,10 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank"> Executar o exercício 022 Fundo007 </a>
 <br>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex023/tabela001.html" target="_blank"> Executar o exercício 023 Tabela 001 </a>
+<br>
+<a href="https://chavesvitor.github.io/html-css/exercicios/ex023/tabela002.html" target="_blank"> Executar o exercício 023 Tabela 002 </a>
+<br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra01" target="_blank"> Executar o exercício Extra 01 </a>
 <br>
 <a href="https://chavesvitor.github.io/html-css/exercicios/extra/extra02" target="_blank"> Executar o exercício Extra 02 </a>
